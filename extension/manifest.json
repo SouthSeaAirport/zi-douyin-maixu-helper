@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "梓 · 捏捏麦序助手",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "description": "守候抖音直播商品。首款开放时点商品入口，结算按钮出现即点一次，随后显示订单回执。",
   "action": {
     "default_title": "梓 · 捏捏麦序助手",
